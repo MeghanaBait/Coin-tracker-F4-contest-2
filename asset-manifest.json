@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coin-tracker-F4-contest-2/static/css/main.bd4d2d13.css",
+    "main.js": "/Coin-tracker-F4-contest-2/static/js/main.c6efce8d.js",
+    "index.html": "/Coin-tracker-F4-contest-2/index.html",
+    "main.bd4d2d13.css.map": "/Coin-tracker-F4-contest-2/static/css/main.bd4d2d13.css.map",
+    "main.c6efce8d.js.map": "/Coin-tracker-F4-contest-2/static/js/main.c6efce8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd4d2d13.css",
+    "static/js/main.c6efce8d.js"
+  ]
+}
